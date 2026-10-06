@@ -1,0 +1,22 @@
+# Celada · Accesorios y carga para Tesla en Colombia
+
+> Tienda en línea de adaptadores de carga NEMA y accesorios compatibles con Tesla Model Y 2025–2026 (Juniper) y Model 3 2024–2026 (Highland) en Colombia, con calculadoras de carga y ahorro basadas en tarifas de energía colombianas. No está afiliada a Tesla, Inc.
+
+## Herramientas
+- [¿Qué adaptador necesito?](https://tesla.celadashopper.com/adaptador/): adaptador NEMA según el tomacorriente, km de autonomía por hora, tiempo y costo de cada carga (240 V y 208 V).
+- [¿Cuánto ahorras con tu Tesla?](https://tesla.celadashopper.com/ahorro/): costo de cargar en casa frente a la gasolina por ciudad y estrato, con tarifas de los operadores de energía.
+- [Beneficios de tener un Tesla en Colombia](https://tesla.celadashopper.com/beneficios/): pico y placa, impuesto vehicular, SOAT y más según la Ley 1964 de 2019.
+
+## Guías
+- [Cómo cargar tu Tesla en casa en Colombia](https://tesla.celadashopper.com/guias/como-cargar-tesla-en-casa-colombia/): Guía 2026: qué trae tu Tesla para cargar, cuánto tarda con 110 V y con 220 V, qué adaptador NEMA necesitas, qué pasa en edificios con 208 V y cuándo necesitas un electricista con RETIE.
+- [¿Cuánto cuesta cargar un Tesla en casa en Colombia?](https://tesla.celadashopper.com/guias/cuanto-cuesta-cargar-tesla-en-casa-colombia/): Cálculo 2026 con las tarifas de Enel, EPM, Celsia, Air-e y Afinia: cuánto pagas por cada 100 km y al mes cargando tu Model Y o Model 3 en casa, comparado con la gasolina, y qué revisar en tu factura.
+- [Lista para recibir tu Tesla en Colombia](https://tesla.celadashopper.com/guias/lista-para-recibir-tu-tesla-colombia/): Qué preparar mientras esperas la entrega de tu Model Y o Model 3: carga en casa, qué trae el carro, qué revisar el día de la entrega y los accesorios que conviene tener desde el primer día.
+- [Conectividad Premium de Tesla en Colombia: qué incluye y qué pierdes sin ella](https://tesla.celadashopper.com/guias/conectividad-premium-tesla-colombia/): Diferencia entre la Conectividad estándar (incluida 8 años) y la Premium (suscripción mensual) en Colombia, qué funciones dependen de cada una y qué alternativas usan los dueños.
+- [Autopilot y Full Self-Driving en Colombia: qué funciona hoy](https://tesla.celadashopper.com/guias/autopilot-fsd-tesla-colombia/): Qué incluye el Piloto automático de los Tesla vendidos en Colombia, cuánto cuesta la Capacidad Full Self-Driving ($32 millones o suscripción mensual) y qué reportan los dueños sobre lo que realmente funciona.
+
+## Productos
+- [Carga](https://tesla.celadashopper.com/carga/): Adaptadores NEMA 14-50, 6-50, 14-30 y más para el Mobile Connector de tu Tesla. Carga hasta 10 veces más rápido que con el tomacorriente de 110 V. Envíos a toda Colombia.
+- [Interior](https://tesla.celadashopper.com/interior/): Tapetes todo clima, organizadores de consola, protectores de pantalla y más para Model Y Juniper y Model 3 Highland. Envíos a toda Colombia.
+- [Protección](https://tesla.celadashopper.com/proteccion/): Parasoles para el techo panorámico, protectores y fundas para Model Y y Model 3. Envíos a toda Colombia.
+- [Exterior](https://tesla.celadashopper.com/exterior/): Guardabarros sin perforar y accesorios exteriores para Model Y Juniper y Model 3 Highland. Envíos a toda Colombia.
+- [Llaves](https://tesla.celadashopper.com/llaves/): Tarjetas llave y fundas para tu Tesla. Envíos a toda Colombia.

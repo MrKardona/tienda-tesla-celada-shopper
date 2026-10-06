@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800"><defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#20232b"/><stop offset="1" stop-color="#0d0e12"/></linearGradient></defs><rect width="800" height="800" fill="url(#g)"/><g transform="translate(160 150)" fill="none" stroke="#e9eaee" stroke-width="10" stroke-linejoin="round" stroke-linecap="round">
+      <rect x="0" y="40" width="300" height="140" rx="40" fill="#2a2e38"/>
+      <rect x="300" y="70" width="70" height="80" rx="14" fill="#2a2e38"/>
+      <path d="M370 90h70M370 130h70" stroke="#9aa0ae"/>
+      <path d="M0 110h-60" stroke-width="22"/></g>
+      <text x="400" y="470" text-anchor="middle" font-size="96" font-weight="700" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif">NEMA 5-20</text>
+      <text x="400" y="535" text-anchor="middle" font-size="34" fill="#c9cbd1" font-family="Inter,Segoe UI,Arial,sans-serif">120 V · 16 A · Original Tesla</text>
+      <rect x="230" y="580" width="340" height="76" rx="38" fill="#3e6ae1"/>
+      <text x="400" y="630" text-anchor="middle" font-size="32" font-weight="600" fill="#fff" font-family="Inter,Segoe UI,Arial,sans-serif">~6,4 km/h · Model Y</text>
+      <text x="40" y="764" font-size="20" fill="#7d8190" font-family="Inter,Segoe UI,Arial,sans-serif">Ilustración · compatible con Tesla</text></svg>

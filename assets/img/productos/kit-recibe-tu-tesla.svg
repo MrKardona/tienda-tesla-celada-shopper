@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800"><defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#20232b"/><stop offset="1" stop-color="#0d0e12"/></linearGradient></defs><rect width="800" height="800" fill="url(#g)"/>
+    <g fill="none" stroke="#e9eaee" stroke-width="22" stroke-linecap="round" stroke-linejoin="round" transform="translate(200 40) scale(0.5)"><path d="M300 150v120M500 150v120M240 270h320v90c0 88-72 160-160 160s-160-72-160-160z" /><path d="M400 520v130"/></g>
+    <text x="400" y="450" text-anchor="middle" font-size="48" font-weight="700" fill="#fff" font-family="Inter,Segoe UI,Arial,sans-serif">Kit Recibe tu Tesla</text>
+    <rect x="88" y="518" width="624" height="64" rx="32" fill="#3e6ae1"/>
+    <text x="400" y="560" text-anchor="middle" font-size="28" font-weight="600" fill="#fff" font-family="Inter,Segoe UI,Arial,sans-serif">Model 3 Highland / Model Y Juniper</text>
+    <text x="40" y="764" font-size="20" fill="#7d8190" font-family="Inter,Segoe UI,Arial,sans-serif">Ilustración · compatible con Tesla</text></svg>
