@@ -1,4 +1,4 @@
-// Generado por tools/build-demo-catalog.js el 2026-10-06. No editar a mano.
+// Generado por tools/build-demo-catalog.js el 2026-10-12. No editar a mano.
 window.CATALOG = [
  {
   "id": "adaptador-nema-14-50-original",
@@ -18,7 +18,7 @@ window.CATALOG = [
     "name": "Estándar",
     "hex": null,
     "images": [
-     "/assets/img/productos/adaptador-nema-14-50-original.svg"
+     "/assets/img/productos/adaptador-nema-14-50-original.webp"
     ]
    }
   ],
@@ -51,7 +51,7 @@ window.CATALOG = [
     "name": "Estándar",
     "hex": null,
     "images": [
-     "/assets/img/productos/adaptador-nema-6-50-original.svg"
+     "/assets/img/productos/adaptador-nema-6-50-original.webp"
     ]
    }
   ],
@@ -84,7 +84,7 @@ window.CATALOG = [
     "name": "Estándar",
     "hex": null,
     "images": [
-     "/assets/img/productos/adaptador-nema-14-30-original.svg"
+     "/assets/img/productos/adaptador-nema-14-30-original.webp"
     ]
    }
   ],
@@ -117,7 +117,7 @@ window.CATALOG = [
     "name": "Estándar",
     "hex": null,
     "images": [
-     "/assets/img/productos/adaptador-nema-10-30-original.svg"
+     "/assets/img/productos/adaptador-nema-10-30-original.webp"
     ]
    }
   ],
@@ -150,7 +150,7 @@ window.CATALOG = [
     "name": "Estándar",
     "hex": null,
     "images": [
-     "/assets/img/productos/adaptador-nema-6-20-original.svg"
+     "/assets/img/productos/adaptador-nema-6-20-original.webp"
     ]
    }
   ],
@@ -183,7 +183,7 @@ window.CATALOG = [
     "name": "Estándar",
     "hex": null,
     "images": [
-     "/assets/img/productos/adaptador-nema-5-20-original.svg"
+     "/assets/img/productos/adaptador-nema-5-20-original.webp"
     ]
    }
   ],
@@ -216,7 +216,7 @@ window.CATALOG = [
     "name": "Estándar",
     "hex": null,
     "images": [
-     "/assets/img/productos/bundle-nema-7.svg"
+     "/assets/img/productos/bundle-nema-7.webp"
     ]
    }
   ],
@@ -249,7 +249,7 @@ window.CATALOG = [
     "name": "Estándar",
     "hex": null,
     "images": [
-     "/assets/img/productos/adaptador-nema-14-50-generico.svg"
+     "/assets/img/productos/adaptador-nema-14-50-generico.webp"
     ]
    }
   ],
@@ -282,7 +282,7 @@ window.CATALOG = [
     "name": "Estándar",
     "hex": null,
     "images": [
-     "/assets/img/productos/combo-adaptador-instalacion.svg"
+     "/assets/img/productos/combo-adaptador-instalacion.webp"
     ]
    }
   ],
@@ -315,7 +315,8 @@ window.CATALOG = [
     "name": "Estándar",
     "hex": null,
     "images": [
-     "/assets/img/productos/parasol-techo-model-y-juniper.svg"
+     "/assets/img/ia/parasol-techo-model-y-juniper.webp",
+     "/assets/img/productos/parasol-techo-model-y-juniper.webp"
     ]
    }
   ],
@@ -348,7 +349,8 @@ window.CATALOG = [
     "name": "Estándar",
     "hex": null,
     "images": [
-     "/assets/img/productos/parasol-techo-model-3-highland.svg"
+     "/assets/img/ia/parasol-techo-model-3-highland.webp",
+     "/assets/img/productos/parasol-techo-model-3-highland.webp"
     ]
    }
   ],
@@ -381,7 +383,8 @@ window.CATALOG = [
     "name": "Estándar",
     "hex": null,
     "images": [
-     "/assets/img/productos/tapetes-model-y-juniper.svg"
+     "/assets/img/ia/tapetes-model-y-juniper.webp",
+     "/assets/img/productos/tapetes-model-y-juniper.webp"
     ]
    }
   ],
@@ -414,7 +417,8 @@ window.CATALOG = [
     "name": "Estándar",
     "hex": null,
     "images": [
-     "/assets/img/productos/tapetes-model-3-highland.svg"
+     "/assets/img/ia/tapetes-model-3-highland.webp",
+     "/assets/img/productos/tapetes-model-3-highland.webp"
     ]
    }
   ],
@@ -447,7 +451,8 @@ window.CATALOG = [
     "name": "Estándar",
     "hex": null,
     "images": [
-     "/assets/img/productos/forro-frunk-model-y.svg"
+     "/assets/img/ia/forro-frunk-model-y.webp",
+     "/assets/img/productos/forro-frunk-model-y.webp"
     ]
    }
   ],
@@ -480,7 +485,8 @@ window.CATALOG = [
     "name": "Estándar",
     "hex": null,
     "images": [
-     "/assets/img/productos/forro-pozo-trasero-model-y.svg"
+     "/assets/img/ia/forro-pozo-trasero-model-y.webp",
+     "/assets/img/productos/forro-pozo-trasero-model-y.webp"
     ]
    }
   ],
@@ -513,7 +519,8 @@ window.CATALOG = [
     "name": "Estándar",
     "hex": null,
     "images": [
-     "/assets/img/productos/guardabarros-model-y-juniper.svg"
+     "/assets/img/ia/guardabarros-model-y-juniper.webp",
+     "/assets/img/productos/guardabarros-model-y-juniper.webp"
     ]
    }
   ],
@@ -546,7 +553,8 @@ window.CATALOG = [
     "name": "Estándar",
     "hex": null,
     "images": [
-     "/assets/img/productos/guardabarros-model-3-highland.svg"
+     "/assets/img/ia/guardabarros-model-3-highland.webp",
+     "/assets/img/productos/guardabarros-model-3-highland.webp"
     ]
    }
   ],
@@ -580,7 +588,8 @@ window.CATALOG = [
     "name": "Estándar",
     "hex": null,
     "images": [
-     "/assets/img/productos/protector-pantalla-highland-juniper.svg"
+     "/assets/img/ia/protector-pantalla-highland-juniper.webp",
+     "/assets/img/productos/protector-pantalla-highland-juniper.webp"
     ]
    }
   ],
@@ -613,7 +622,8 @@ window.CATALOG = [
     "name": "Estándar",
     "hex": null,
     "images": [
-     "/assets/img/productos/organizador-consola-juniper.svg"
+     "/assets/img/ia/organizador-consola-juniper.webp",
+     "/assets/img/productos/organizador-consola-juniper.webp"
     ]
    }
   ],
@@ -647,7 +657,8 @@ window.CATALOG = [
     "name": "Estándar",
     "hex": null,
     "images": [
-     "/assets/img/productos/soporte-celular-magnetico.svg"
+     "/assets/img/ia/soporte-celular-magnetico.webp",
+     "/assets/img/productos/soporte-celular-magnetico.webp"
     ]
    }
   ],
@@ -681,7 +692,8 @@ window.CATALOG = [
     "name": "Estándar",
     "hex": null,
     "images": [
-     "/assets/img/productos/organizador-detras-pantalla.svg"
+     "/assets/img/ia/organizador-detras-pantalla.webp",
+     "/assets/img/productos/organizador-detras-pantalla.webp"
     ]
    }
   ],
@@ -714,7 +726,8 @@ window.CATALOG = [
     "name": "Estándar",
     "hex": null,
     "images": [
-     "/assets/img/productos/compartimentos-baul-model-y.svg"
+     "/assets/img/ia/compartimentos-baul-model-y.webp",
+     "/assets/img/productos/compartimentos-baul-model-y.webp"
     ]
    }
   ],
@@ -748,7 +761,7 @@ window.CATALOG = [
     "name": "Estándar",
     "hex": null,
     "images": [
-     "/assets/img/productos/tarjeta-llave.svg"
+     "/assets/img/productos/tarjeta-llave.webp"
     ]
    }
   ],
@@ -781,7 +794,8 @@ window.CATALOG = [
     "name": "Estándar",
     "hex": null,
     "images": [
-     "/assets/img/productos/funda-tarjeta-llave.svg"
+     "/assets/img/ia/funda-tarjeta-llave.webp",
+     "/assets/img/productos/funda-tarjeta-llave.webp"
     ]
    }
   ],
@@ -815,7 +829,8 @@ window.CATALOG = [
     "name": "Estándar",
     "hex": null,
     "images": [
-     "/assets/img/productos/kit-recibe-tu-tesla.svg"
+     "/assets/img/ia/kit-recibe-tu-tesla.webp",
+     "/assets/img/productos/kit-recibe-tu-tesla.webp"
     ]
    }
   ],
@@ -848,7 +863,8 @@ window.CATALOG = [
     "name": "Estándar",
     "hex": null,
     "images": [
-     "/assets/img/productos/liquido-limpiaparabrisas.svg"
+     "/assets/img/ia/liquido-limpiaparabrisas.webp",
+     "/assets/img/productos/liquido-limpiaparabrisas.webp"
     ]
    }
   ],

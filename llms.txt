@@ -5,6 +5,12 @@
 ## Herramientas
 - [¿Qué adaptador necesito?](https://tesla.celadashopper.com/adaptador/): adaptador NEMA según el tomacorriente, km de autonomía por hora, tiempo y costo de cada carga (240 V y 208 V).
 - [¿Cuánto ahorras con tu Tesla?](https://tesla.celadashopper.com/ahorro/): costo de cargar en casa frente a la gasolina por ciudad y estrato, con tarifas de los operadores de energía.
+  - [Cuánto cuesta cargar un Tesla en Bogotá](https://tesla.celadashopper.com/ahorro/bogota/)
+  - [Cuánto cuesta cargar un Tesla en Medellín](https://tesla.celadashopper.com/ahorro/medellin/)
+  - [Cuánto cuesta cargar un Tesla en Barranquilla](https://tesla.celadashopper.com/ahorro/barranquilla/)
+  - [Cuánto cuesta cargar un Tesla en Cartagena](https://tesla.celadashopper.com/ahorro/cartagena/)
+  - [Cuánto cuesta cargar un Tesla en Ibagué](https://tesla.celadashopper.com/ahorro/ibague/)
+  - [Cuánto cuesta cargar un Tesla en Montería](https://tesla.celadashopper.com/ahorro/monteria/)
 - [Beneficios de tener un Tesla en Colombia](https://tesla.celadashopper.com/beneficios/): pico y placa, impuesto vehicular, SOAT y más según la Ley 1964 de 2019.
 
 ## Guías
