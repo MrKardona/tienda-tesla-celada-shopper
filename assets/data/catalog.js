@@ -1,4 +1,4 @@
-// Generado por tools/build-demo-catalog.js el 2026-10-12. No editar a mano.
+// Generado por tools/build-demo-catalog.js el 2026-10-23. No editar a mano.
 window.CATALOG = [
  {
   "id": "adaptador-nema-14-50-original",
@@ -11,7 +11,9 @@ window.CATALOG = [
    "todos"
   ],
   "original": true,
-  "fromPrice": null,
+  "fromPrice": 280000,
+  "ship": "gratis",
+  "featured": 2,
   "colors": [
    {
     "id": "estandar",
@@ -29,212 +31,14 @@ window.CATALOG = [
    {
     "color": "estandar",
     "config": "Estándar",
-    "price": null
-   }
-  ]
- },
- {
-  "id": "adaptador-nema-6-50-original",
-  "cat": "carga",
-  "name": "Adaptador NEMA 6-50 Gen 2 (original Tesla)",
-  "tagline": "Mobile Connector Gen 2",
-  "badge": null,
-  "description": "",
-  "fits": [
-   "todos"
-  ],
-  "original": true,
-  "fromPrice": null,
-  "colors": [
-   {
-    "id": "estandar",
-    "name": "Estándar",
-    "hex": null,
-    "images": [
-     "/assets/img/productos/adaptador-nema-6-50-original.webp"
-    ]
-   }
-  ],
-  "configs": [
-   "Estándar"
-  ],
-  "variants": [
-   {
-    "color": "estandar",
-    "config": "Estándar",
-    "price": null
-   }
-  ]
- },
- {
-  "id": "adaptador-nema-14-30-original",
-  "cat": "carga",
-  "name": "Adaptador NEMA 14-30 Gen 2 (original Tesla)",
-  "tagline": "Mobile Connector Gen 2",
-  "badge": null,
-  "description": "",
-  "fits": [
-   "todos"
-  ],
-  "original": true,
-  "fromPrice": null,
-  "colors": [
-   {
-    "id": "estandar",
-    "name": "Estándar",
-    "hex": null,
-    "images": [
-     "/assets/img/productos/adaptador-nema-14-30-original.webp"
-    ]
-   }
-  ],
-  "configs": [
-   "Estándar"
-  ],
-  "variants": [
-   {
-    "color": "estandar",
-    "config": "Estándar",
-    "price": null
-   }
-  ]
- },
- {
-  "id": "adaptador-nema-10-30-original",
-  "cat": "carga",
-  "name": "Adaptador NEMA 10-30 Gen 2 (original Tesla)",
-  "tagline": "Mobile Connector Gen 2",
-  "badge": null,
-  "description": "",
-  "fits": [
-   "todos"
-  ],
-  "original": true,
-  "fromPrice": null,
-  "colors": [
-   {
-    "id": "estandar",
-    "name": "Estándar",
-    "hex": null,
-    "images": [
-     "/assets/img/productos/adaptador-nema-10-30-original.webp"
-    ]
-   }
-  ],
-  "configs": [
-   "Estándar"
-  ],
-  "variants": [
-   {
-    "color": "estandar",
-    "config": "Estándar",
-    "price": null
-   }
-  ]
- },
- {
-  "id": "adaptador-nema-6-20-original",
-  "cat": "carga",
-  "name": "Adaptador NEMA 6-20 Gen 2 (original Tesla)",
-  "tagline": "Mobile Connector Gen 2",
-  "badge": null,
-  "description": "",
-  "fits": [
-   "todos"
-  ],
-  "original": true,
-  "fromPrice": null,
-  "colors": [
-   {
-    "id": "estandar",
-    "name": "Estándar",
-    "hex": null,
-    "images": [
-     "/assets/img/productos/adaptador-nema-6-20-original.webp"
-    ]
-   }
-  ],
-  "configs": [
-   "Estándar"
-  ],
-  "variants": [
-   {
-    "color": "estandar",
-    "config": "Estándar",
-    "price": null
-   }
-  ]
- },
- {
-  "id": "adaptador-nema-5-20-original",
-  "cat": "carga",
-  "name": "Adaptador NEMA 5-20 Gen 2 (original Tesla)",
-  "tagline": "Mobile Connector Gen 2",
-  "badge": null,
-  "description": "",
-  "fits": [
-   "todos"
-  ],
-  "original": true,
-  "fromPrice": null,
-  "colors": [
-   {
-    "id": "estandar",
-    "name": "Estándar",
-    "hex": null,
-    "images": [
-     "/assets/img/productos/adaptador-nema-5-20-original.webp"
-    ]
-   }
-  ],
-  "configs": [
-   "Estándar"
-  ],
-  "variants": [
-   {
-    "color": "estandar",
-    "config": "Estándar",
-    "price": null
-   }
-  ]
- },
- {
-  "id": "bundle-nema-7",
-  "cat": "carga",
-  "name": "Bundle 7 adaptadores NEMA + bolsa",
-  "tagline": "Mobile Connector Gen 2",
-  "badge": null,
-  "description": "",
-  "fits": [
-   "todos"
-  ],
-  "original": true,
-  "fromPrice": null,
-  "colors": [
-   {
-    "id": "estandar",
-    "name": "Estándar",
-    "hex": null,
-    "images": [
-     "/assets/img/productos/bundle-nema-7.webp"
-    ]
-   }
-  ],
-  "configs": [
-   "Estándar"
-  ],
-  "variants": [
-   {
-    "color": "estandar",
-    "config": "Estándar",
-    "price": null
+    "price": 280000
    }
   ]
  },
  {
   "id": "adaptador-nema-14-50-generico",
   "cat": "carga",
-  "name": "Adaptador NEMA 14-50 Gen 2 (genérico certificado)",
+  "name": "Adaptador NEMA 14-50 compatible con Mobile Connector Gen 2",
   "tagline": "Mobile Connector Gen 2",
   "badge": null,
   "description": "",
@@ -242,7 +46,9 @@ window.CATALOG = [
    "todos"
   ],
   "original": false,
-  "fromPrice": null,
+  "fromPrice": 210000,
+  "ship": "gratis",
+  "featured": 3,
   "colors": [
    {
     "id": "estandar",
@@ -260,7 +66,7 @@ window.CATALOG = [
    {
     "color": "estandar",
     "config": "Estándar",
-    "price": null
+    "price": 210000
    }
   ]
  },
@@ -276,6 +82,8 @@ window.CATALOG = [
   ],
   "original": false,
   "fromPrice": null,
+  "ship": null,
+  "featured": null,
   "colors": [
    {
     "id": "estandar",
@@ -308,7 +116,9 @@ window.CATALOG = [
    "model-y-juniper"
   ],
   "original": false,
-  "fromPrice": null,
+  "fromPrice": 185000,
+  "ship": "gratis",
+  "featured": 1,
   "colors": [
    {
     "id": "estandar",
@@ -327,7 +137,7 @@ window.CATALOG = [
    {
     "color": "estandar",
     "config": "Estándar",
-    "price": null
+    "price": 185000
    }
   ]
  },
@@ -343,6 +153,8 @@ window.CATALOG = [
   ],
   "original": false,
   "fromPrice": null,
+  "ship": null,
+  "featured": null,
   "colors": [
    {
     "id": "estandar",
@@ -368,7 +180,7 @@ window.CATALOG = [
  {
   "id": "tapetes-model-y-juniper",
   "cat": "interior",
-  "name": "Tapetes todo clima cabina Model Y Juniper",
+  "name": "Tapetes todo clima Model Y Juniper (13 piezas)",
   "tagline": "Model Y 2025-2026",
   "badge": null,
   "description": "",
@@ -376,7 +188,9 @@ window.CATALOG = [
    "model-y-juniper"
   ],
   "original": false,
-  "fromPrice": null,
+  "fromPrice": 650000,
+  "ship": "gratis-principales",
+  "featured": 4,
   "colors": [
    {
     "id": "estandar",
@@ -395,7 +209,7 @@ window.CATALOG = [
    {
     "color": "estandar",
     "config": "Estándar",
-    "price": null
+    "price": 650000
    }
   ]
  },
@@ -411,6 +225,8 @@ window.CATALOG = [
   ],
   "original": false,
   "fromPrice": null,
+  "ship": null,
+  "featured": null,
   "colors": [
    {
     "id": "estandar",
@@ -445,6 +261,8 @@ window.CATALOG = [
   ],
   "original": false,
   "fromPrice": null,
+  "ship": null,
+  "featured": null,
   "colors": [
    {
     "id": "estandar",
@@ -479,6 +297,8 @@ window.CATALOG = [
   ],
   "original": false,
   "fromPrice": null,
+  "ship": null,
+  "featured": null,
   "colors": [
    {
     "id": "estandar",
@@ -513,6 +333,8 @@ window.CATALOG = [
   ],
   "original": false,
   "fromPrice": null,
+  "ship": null,
+  "featured": null,
   "colors": [
    {
     "id": "estandar",
@@ -547,6 +369,8 @@ window.CATALOG = [
   ],
   "original": false,
   "fromPrice": null,
+  "ship": null,
+  "featured": null,
   "colors": [
    {
     "id": "estandar",
@@ -582,6 +406,8 @@ window.CATALOG = [
   ],
   "original": false,
   "fromPrice": null,
+  "ship": null,
+  "featured": null,
   "colors": [
    {
     "id": "estandar",
@@ -607,7 +433,7 @@ window.CATALOG = [
  {
   "id": "organizador-consola-juniper",
   "cat": "interior",
-  "name": "Organizador de consola central Model Y Juniper",
+  "name": "Organizador de consola central Model Y Juniper (kit de 7 piezas)",
   "tagline": "Model Y 2025-2026",
   "badge": null,
   "description": "",
@@ -615,7 +441,9 @@ window.CATALOG = [
    "model-y-juniper"
   ],
   "original": false,
-  "fromPrice": null,
+  "fromPrice": 155000,
+  "ship": "gratis",
+  "featured": 5,
   "colors": [
    {
     "id": "estandar",
@@ -634,7 +462,7 @@ window.CATALOG = [
    {
     "color": "estandar",
     "config": "Estándar",
-    "price": null
+    "price": 155000
    }
   ]
  },
@@ -651,6 +479,8 @@ window.CATALOG = [
   ],
   "original": false,
   "fromPrice": null,
+  "ship": null,
+  "featured": null,
   "colors": [
    {
     "id": "estandar",
@@ -686,6 +516,8 @@ window.CATALOG = [
   ],
   "original": false,
   "fromPrice": null,
+  "ship": null,
+  "featured": null,
   "colors": [
    {
     "id": "estandar",
@@ -720,6 +552,8 @@ window.CATALOG = [
   ],
   "original": false,
   "fromPrice": null,
+  "ship": null,
+  "featured": null,
   "colors": [
    {
     "id": "estandar",
@@ -755,6 +589,8 @@ window.CATALOG = [
   ],
   "original": true,
   "fromPrice": null,
+  "ship": null,
+  "featured": null,
   "colors": [
    {
     "id": "estandar",
@@ -788,6 +624,8 @@ window.CATALOG = [
   ],
   "original": false,
   "fromPrice": null,
+  "ship": null,
+  "featured": null,
   "colors": [
    {
     "id": "estandar",
@@ -823,6 +661,8 @@ window.CATALOG = [
   ],
   "original": false,
   "fromPrice": null,
+  "ship": null,
+  "featured": null,
   "colors": [
    {
     "id": "estandar",
@@ -857,6 +697,8 @@ window.CATALOG = [
   ],
   "original": false,
   "fromPrice": null,
+  "ship": null,
+  "featured": null,
   "colors": [
    {
     "id": "estandar",

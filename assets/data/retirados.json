@@ -1,0 +1,32 @@
+[
+ {
+  "id": "adaptador-nema-6-50-original",
+  "cat": "carga",
+  "name": "Adaptador NEMA 6-50 Gen 2 (original Tesla)"
+ },
+ {
+  "id": "adaptador-nema-14-30-original",
+  "cat": "carga",
+  "name": "Adaptador NEMA 14-30 Gen 2 (original Tesla)"
+ },
+ {
+  "id": "adaptador-nema-10-30-original",
+  "cat": "carga",
+  "name": "Adaptador NEMA 10-30 Gen 2 (original Tesla)"
+ },
+ {
+  "id": "adaptador-nema-6-20-original",
+  "cat": "carga",
+  "name": "Adaptador NEMA 6-20 Gen 2 (original Tesla)"
+ },
+ {
+  "id": "adaptador-nema-5-20-original",
+  "cat": "carga",
+  "name": "Adaptador NEMA 5-20 Gen 2 (original Tesla)"
+ },
+ {
+  "id": "bundle-nema-7",
+  "cat": "carga",
+  "name": "Bundle 7 adaptadores NEMA + bolsa"
+ }
+]
